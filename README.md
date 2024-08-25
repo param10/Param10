@@ -12,6 +12,13 @@ With 3.5+ years of experience, I focus on turning data into actionable insights 
 - **Tools & Services**: Git, Docker, Azure
 - **Databases**: MySQL, PostgreSQL, SQL Server
 
+## 💼 Experience Highlights
+
+- **Divine Group of Companies**: Boosted quarterly sales by 11% and improved customer retention by 15% through data-driven strategies.
+- **Netmax Solutions**: Enhanced data processing efficiency by 21% and achieved 90% accuracy in predictive models.
+- **Shor in the City**: Increased user acquisition by 25% and engagement by 35% with targeted analytics and real-time monitoring.
+- **Ommzi Pvt Ltd**: Led development of a mobile game, achieving over 100,000 downloads with a 20% reduction in bugs.
+
 ## 🚀 Recent Projects
 
 - **[Crypto-Project](https://github.com/param10/Crypto-Project)**: Analyzing cryptocurrency datasets to uncover market trends [oai_citation:4,GitHub - param10/Crypto-Project: Data Analysis for a Crypto Dataset.](https://github.com/param10/Crypto-Project).
