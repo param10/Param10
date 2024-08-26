@@ -21,13 +21,14 @@ With 3.5+ years of experience, I focus on turning data into actionable insights 
 
 ## 🚀 Recent Projects
 
-- **[Crypto-Project](https://github.com/param10/Crypto-Project)**: Analyzing cryptocurrency datasets to uncover market trends [oai_citation:4,GitHub - param10/Crypto-Project: Data Analysis for a Crypto Dataset.](https://github.com/param10/Crypto-Project).
+- **[Crypto-Project](https://github.com/param10/Crypto-Project)**: Analyzing cryptocurrency datasets to uncover market trends.
   
-- **[HousePrediction](https://github.com/param10/HousePrediction)**: Predicting house prices using machine learning techniques [oai_citation:3,GitHub - param10/HousePrediction: House Predicrtion Analysis](https://github.com/param10/HousePrediction).
+- **[HousePrediction](https://github.com/param10/HousePrediction)**: Predicting house prices using machine learning techniques.
 
-- **[Dog Breed Classifier](https://github.com/param10/DogBreedClassifer)**: Classifying dog breeds using deep learning models [oai_citation:2,GitHub - param10/DogBreedClassifer: A code for dog breed classifier.](https://github.com/param10/DogBreedClassifer).
+- **[Dog Breed Classifier](https://github.com/param10/DogBreedClassifer)**: Classifying dog breeds using deep learning models.
 
-- **[ML_Projects](https://github.com/param10/ML_Projects)**: A collection of various machine learning and deep learning projects [oai_citation:1,GitHub - param10/ML_Projects: Machine Learning and Deep Learning Projects.](https://github.com/param10/ML_Projects).
+- **[ML_Projects](https://github.com/param10/ML_Projects)**: A collection of various machine learning and deep learning projects.
+
 
 ## 📫 Let's Connect
 
