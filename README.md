@@ -27,7 +27,7 @@ With 3.5+ years of experience, I focus on turning data into actionable insights 
 
 - **[Dog Breed Classifier](https://github.com/param10/DogBreedClassifer)**: Classifying dog breeds using deep learning models.
 
-- **[ML_Projects](https://github.com/param10/ML_Projects)**: A collection of various machine learning and deep learning projects.
+- **[Dealership Analysis](https://github.com/param10/Dealership-Analysis)**: An analysis done on real dealership data that has been modified to void privacy concerns.
 
 
 ## 📫 Let's Connect
