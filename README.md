@@ -34,6 +34,7 @@ With 3.5+ years of experience, I focus on turning data into actionable insights 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/param-jaswal) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=social)](https://github.com/param10)
+[![Website](https://img.shields.io/badge/Website-Visit%20Now-blue)](http://www.parambytes.com/)
 
 ---
 
